@@ -51,10 +51,10 @@
   <ItemGroup>
     <Reference Include="CustomMarshalers" />
     <Reference Include="Guna.UI2">
-      <HintPath>..\..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\CSharpBeautifulThemes\Libraries\Guna.UI2\Guna.UI2.dll</HintPath>
+      <HintPath>..\..\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\CSharpBeautifulThemes\Libraries\Guna.UI2\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="MetroSuite 2.0">
-      <HintPath>..\..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\CSharpBeautifulThemes\Libraries\MetroSuite\MetroSuite 2.0.dll</HintPath>
+      <HintPath>..\..\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\CSharpBeautifulThemes\Libraries\MetroSuite\MetroSuite 2.0.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.WindowsAPICodePack, Version=1.1.4.0, Culture=neutral, PublicKeyToken=8985beaab7ea3f04, processorArchitecture=MSIL">
       <HintPath>packages\Microsoft-WindowsAPICodePack-Core.1.1.4\lib\net48\Microsoft.WindowsAPICodePack.dll</HintPath>
